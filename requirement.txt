@@ -1,6 +1,9 @@
+txt
+
 streamlit
 torch
 torchvision
 opencv-python
 streamlit-webrtc
 av
+streamlit-autorefresh
