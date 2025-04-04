@@ -3,7 +3,8 @@ txt
 streamlit
 torch
 torchvision
-opencv-python
-streamlit-webrtc
+opencv-python-headless==4.5.5.64
+streamlit-webrtc==0.45.1
 av
 streamlit-autorefresh
+numpy
