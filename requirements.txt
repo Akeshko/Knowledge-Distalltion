@@ -3,3 +3,6 @@ torch==2.2.0
 torchvision==0.17.0
 opencv-python-headless==4.5.5.64
 numpy==1.23.5
+streamlit-webrtc==0.45.2
+streamlit-autorefresh==0.1.0
+av==10.0.0
